@@ -14,4 +14,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
+
+ [![An image of @preetitamana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preetitamana)](https://holopin.io/@preetitamana)
 </div>
